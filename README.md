@@ -6,6 +6,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21474284.svg)](https://doi.org/10.5281/zenodo.21474284)
 
+
 ## Overview
 
 GAIA-DRL is an open-source scientific framework that integrates geospatial intelligence, Ambient Backscatter Communication (AmBC), and Deep Reinforcement Learning (DDPG) to optimize dense batteryless IoT networks under real environmental conditions.
