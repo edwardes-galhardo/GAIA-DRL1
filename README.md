@@ -1,5 +1,5 @@
 # GAIA-DRL
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21474284.svg)](https://doi.org/10.5281/zenodo.21474284)
+
 > Geoenvironmental Artificial Intelligence Agent for Energy Optimization in Batteryless IoT Networks using Ambient Backscatter Communication.
 
 ---
