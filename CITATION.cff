@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "GAIA-DRL"
+message: "If you use this software, please cite it using the metadata below."
+type: software
+
+authors:
+  - family-names: Galhardo
+    given-names: Edwardes Amaro
+
+repository-code: "https://github.com/edwardes-galhardo/GAIA-DRL1"
+
+license: MIT
+
+version: "1.0"
+
+date-released: 2026-07-21
